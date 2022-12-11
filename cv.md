@@ -6,6 +6,7 @@
 * *mobile: +375445800627*     
 * *mail: bankov2016@gmail.com*     
 * *discord nickname: Maksim Bankou (@maksimbankou)*
+
 ----
 
 ## Description  
@@ -30,6 +31,7 @@ function multiply(a, b){
 }
 ``` 
 ------------
+
 ### Experience 
 My experience is what I learned at university
 --------
