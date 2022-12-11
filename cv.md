@@ -10,4 +10,4 @@ function multiply(a, b){
   return a * b
 }
 ``` 
-
+rsschool-cv: [CV-project](https://github.com/MaksimBankou/rsschool-cv.git "GIT")
