@@ -16,7 +16,9 @@
 * JavaScript \**
 * JAVA *
 * C/C++ *
+
 -------
+
 >These skills were acquired through university classes or independent study
 
 ### Code Example
