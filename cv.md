@@ -15,8 +15,7 @@
 * CSS ***
 * JavaScript \**
 * JAVA *
-* C/C++ *
-
+* C/C++ \*
 -------
 
 >These skills were acquired through university classes or independent study
